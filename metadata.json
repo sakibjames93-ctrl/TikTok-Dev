@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Video Downloader",
+  "description": "A fast, ad-supported TikTok video downloader with a premium tier and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
